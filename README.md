@@ -1,7 +1,5 @@
 "# Spellcheck Identifiers Project"
 
-\#  Spellcheck Identifiers
-
 
 
 A tool to detect and correct spelling mistakes in source code identifiers using an English dictionary.
