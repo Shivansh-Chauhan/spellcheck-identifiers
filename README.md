@@ -80,15 +80,15 @@ spellcheck-identifiers/
 
 \##  How It Works
 
-1\. Extract identifiers from source code  
+1\. Extract identifiers from source code
 
-2\. Split identifiers using naming conventions (camelCase, snake\_case)  
+2\. Split identifiers using naming conventions (camelCase, snake\_case)
 
-3\. Validate each word using an English dictionary (Hunspell)  
+3\. Validate each word using an English dictionary (Hunspell)
 
-4\. Apply heuristics to reduce false positives  
+4\. Apply heuristics to reduce false positives
 
-5\. Suggest corrections for misspelled words  
+5\. Suggest corrections for misspelled words
 
 
 
@@ -146,13 +146,13 @@ Possible spelling mistake: usrNmae → userName
 
 \##  Future Improvements
 
-\- Add support for multiple languages  
+\- Add support for multiple languages
 
-\- Improve suggestion accuracy  
+\- Improve suggestion accuracy
 
-\- Integrate with IDEs (VS Code, IntelliJ)  
+\- Integrate with IDEs (VS Code, IntelliJ)
 
-\- Optimize performance for large codebases   
+\- Optimize performance for large codebases
 
 
 
